@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/95/21/51/95215106009c3cccc0fa61dc28ff9765.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+.slnko {
+    background-image: url("https://png.pngitem.com/pimgs/s/506-5062902_kawaii-sun-kawaii-sun-sun-clipart-png-transparent.png");
+    background-size: cover;
+    width: 20vw;
+    height: 20vh;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.vtak {
+    background-image: url("https://toppng.com/uploads/preview/birds-png-images-free-transparent-background-bird-transparent-115629816583gw2ti1z8o.png");
+    background-size: cover;
+    width: 20vw;
+    height: 20vh;
+}
+
+.hp {
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
+
+.dp {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
+
+.dl {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.otoc {
+    transform: scaleX(-1);
+}
